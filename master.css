@@ -1,0 +1,44 @@
+#central{
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 280px;
+  height: 200px;
+  background-color: white;
+  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.bodyLogin{
+  background-color: #7EBA5C;
+
+}
+a:link {
+    color: #7EBA5C;
+}
+
+#mensaje{
+  color: red;
+}
+#formulario{
+  margin-top: 22px;
+}
+.pad{
+  margin-bottom: 7px;
+}
+
+.rojito{
+  color: red;
+  visibility: visible !important;
+}
+
+.creado{
+  visibility: visible !important;
+  color: green;
+
+}
+i{
+  width: 40px;
+  display: inline-block;
+
+}
